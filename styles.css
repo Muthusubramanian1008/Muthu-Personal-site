@@ -89,9 +89,6 @@ a:hover{
     margin-right: 30px;
 }
 
-.dd-des{
-    clear:left;
-}
 
 .jewel{
     width: 25%;
@@ -99,9 +96,7 @@ a:hover{
     margin-left: 30px;
 }
 
-.jm-des{
-    clear:right;
-}
+
 .intro{
     width:40%;
     margin: auto;
